@@ -1,0 +1,1 @@
+from Applications.__template.app.sample import *

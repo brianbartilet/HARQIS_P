@@ -1,0 +1,7 @@
+{
+  "routes": ["ePA Smoke Test", "ePA Sanity Test", "iPA Smoke Test", "iPA Sanity Test", "Automation Core", "RT01 Regression"],
+  "environments": ["UAT", "SYSTEST","UDEV", "USYS", "CDA", "RT01"],
+  "bgroups": ["HAL","HSB", "EMR", "JMC", "BOI", "LBG", "MRS", "EBR", "VOG", "RSU", "CIT", "LIF", "WIF",
+    "RBS", "BCL","ZZY", "SANDBOX", "CORE", "RT01"],
+  "port": 3001
+}

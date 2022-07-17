@@ -1,0 +1,1 @@
+{"date": "2022-05-19T14:56", "args": "\"ElasticSearch\" \"Trello\" \"Daily Dashboard\" \"EXECUTE\" ", "exception_message": "ConnectionError", "failed": 1, "last_failed": "2022-05-19T14:56", "name": "Workflows.habits.reminders.create_daily_tasks_metrics", "pass_fail_percent": 0.0, "passed": 0, "short_name": "create_daily_tasks_metrics"}

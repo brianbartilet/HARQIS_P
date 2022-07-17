@@ -1,0 +1,1 @@
+{"date": "2022-04-27T00:00", "args": "\"EchoMTG\" \"YNAB\" \"penny\" ", "exception_message": "TypeError", "failed": 341, "last_failed": "2022-03-31T22:00", "name": "Workflows.finance.mtg_collection.create_budget_transactions_from_collection", "pass_fail_percent": 87.3187058386017, "passed": 2348, "short_name": "create_budget_transactions_from_collection"}
