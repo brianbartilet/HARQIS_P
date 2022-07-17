@@ -1,1 +1,0 @@
-{"date": "2022-01-15T04:08", "args": "\"EchoMTG\" \"GoogleAPIsSheet\" \"x30 USD\" \"30\" \"penny\" \"-1\" ", "exception_message": "ReadTimeout", "failed": 3, "last_failed": "2022-01-15T04:08", "name": "Workflows.finance.mtg_selling.generate_collection_selling", "pass_fail_percent": 99.58563535911603, "passed": 721, "short_name": "generate_collection_selling"}

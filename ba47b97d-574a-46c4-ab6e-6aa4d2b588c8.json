@@ -1,1 +1,0 @@
-{"date": "2021-12-17T17:21", "args": "\"EchoMTG\" \"YNAB\" ", "exception_message": "ConnectionError", "failed": 1, "last_failed": "2021-12-17T17:21", "name": "Workflows.finance.mtg_collection.update_budget_transactions_from_changed_price_budget_range", "pass_fail_percent": 0.0, "passed": 0, "short_name": "update_budget_transactions_from_changed_price_budget_range"}
